@@ -27,3 +27,15 @@ The project solves major real-world business tracking requirements using SQL:
 1. Initialize your local RDBMS environment (e.g., MySQL Workbench).
 2. Create your target schema: `CREATE DATABASE Aquaculture_Management;`
 3. Open and run the `aquaculture_analysis.sql` file to build tables, populate records, and execute analytical reports.
+
+##  Result
+<img width="1770" height="749" alt="image" src="https://github.com/user-attachments/assets/82994aa7-1856-4736-b53d-4028651312e9" />
+<p align=center> ER Diagram</p>
+
+<img width="350" height="350" alt="image" src="https://github.com/user-attachments/assets/1cb3d00d-3b47-43b9-ae0f-5f58326660af" />
+<img width="500" height="100" alt="image" src="https://github.com/user-attachments/assets/4f33fa70-06ca-4272-ac43-8a5272395950" />
+<p align=center> Low Stock Alert Query</p>
+
+<img width="350" height="350" alt="image" src="https://github.com/user-attachments/assets/c573d79f-3ffc-47fb-90de-46438074b7e3" />
+<img width="500" height="100" alt="image" src="https://github.com/user-attachments/assets/4b54e3af-00cb-4330-b952-f2aee7fd3e71" />
+<p align=center> Customer Purchase history</p>
